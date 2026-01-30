@@ -1,4 +1,4 @@
-<h1>Jogo do Numero</h1>
+<h1 color: rgba(196, 100, 196, 0.74)>Jogo do Numero</h1>
 <h2>🏷️ About </h2>
 <p>project made by programming logic of Alura</p>
 <h2>🚀Technologies</h2>
