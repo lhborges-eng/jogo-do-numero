@@ -10,7 +10,7 @@ function mostrarTextonaTela(tag, texto) {
 }
 
 function mostrarTextoInicial() {
-    mostrarTextonaTela('h1', 'Jogo do Chute');
+    mostrarTextonaTela('h1', 'Jogo do Chute Secreto');
     if (numeroLimite === numeroDificil) {
         mostrarTextonaTela('p', 'Escolha um número entre 1 e 100');
     } else {
